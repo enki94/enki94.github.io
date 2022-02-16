@@ -6,7 +6,7 @@
     "users": [
       {
         "name": "core",
-        "passwordHash": "$1$5DjQaJfd$zRXEDc12oKSCZEw3865Hx1"
+        "passwordHash": "$1$5DjQaJfd$zRXEDc12oKSCZEw3865Hx1",
         "sshAuthorizedKeys": [
           "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCr5eCV/9ATSTI6UchVNCeLAbpejFJKZvnci5tA967Yng4Gm8MUwaPiNdX+p+tFhcd3qen6/tGKPzw94SSWIz/F38ITgq3GYVpuOBhb+fJ9Iykyhiq0+LKTvz7q+UKZWDcr8zSHwNdUiM5IQy6WZKdG3g4Qu8ME2MVl2UCJws/w1gMEivwh1NxIA5YlrA4ELcUNz1BtBXZYyVhW+Xb/k/7a/ahuFIssoewO5p4bTLc0DQ5DdmtnxKcX9WYgrOarCYoyyF8p//V243WMbGrBsvTVygBsgN2nHCPY1FE9t+GDfvwO3My2vX5e8atwV2FKCiG+1+h+wT9ej+hdaCNcE1Lt ssh-key-2021-12-07\\"
         ]
