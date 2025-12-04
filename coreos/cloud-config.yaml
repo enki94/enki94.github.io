@@ -1,7 +1,0 @@
-hostname: "coreos"
-users:
-- name: "core"
-  passwd: "$1$5DjQaJfd$zRXEDc12oKSCZEw3865Hx1"
-  groups:
-    - "sudo"
-    - "docker"
